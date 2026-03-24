@@ -1,2 +1,2 @@
 # nadeemvision-demo
-this is my fist commit
+this is my fist git repository
